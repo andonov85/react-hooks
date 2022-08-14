@@ -1,0 +1,30 @@
+html, body {
+    height: 100%;
+}
+
+h5 {
+    display: inline-block;
+    margin-right: 5px;
+}
+
+.container {
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    height: 100%;
+}
+
+.counter {
+    margin-right: 5px;
+    padding: 3px;
+    background-color: blueviolet;
+    color: white;
+    border-radius: 4px;
+}
+
+.comp {
+    margin: 5px;
+    padding: 10px;
+    border-radius: 4px;
+    background-color: rgba(65, 105, 225, 0.2);
+}
